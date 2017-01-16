@@ -1,0 +1,5 @@
+XSym
+0074
+ad50f494d2612c6c0741e7787d3fd88e
+../../../QMServices/QMBaseService/QMBaseService/QMServiceManagerProtocol.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

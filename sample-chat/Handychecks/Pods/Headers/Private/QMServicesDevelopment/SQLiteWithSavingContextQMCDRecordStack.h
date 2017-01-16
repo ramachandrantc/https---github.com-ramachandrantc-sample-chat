@@ -1,0 +1,5 @@
+XSym
+0122
+8efb33f588d46848bcbd587080b51988
+../../../QMServicesDevelopment/QMDBStorage/QMDBStorage/QMCDRecord/QMCDRecordStack/SQLiteWithSavingContextQMCDRecordStack.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

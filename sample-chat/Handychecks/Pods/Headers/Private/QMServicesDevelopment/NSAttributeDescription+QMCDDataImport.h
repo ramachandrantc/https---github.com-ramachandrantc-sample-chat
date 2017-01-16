@@ -1,0 +1,5 @@
+XSym
+0132
+501126c4e6b0b6496d9bade695471e91
+../../../QMServicesDevelopment/QMDBStorage/QMDBStorage/QMCDRecord/Categories/CoreData/Import/NSAttributeDescription+QMCDDataImport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

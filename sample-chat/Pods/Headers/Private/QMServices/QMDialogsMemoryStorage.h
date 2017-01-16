@@ -1,0 +1,5 @@
+XSym
+0095
+a14afefc2432d4a1cb8947af3d05766f
+../../../QMServices/QMChatService/QMChatService/QMDialogsMemoryStorage/QMDialogsMemoryStorage.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

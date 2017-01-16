@@ -1,0 +1,5 @@
+XSym
+0102
+f18c734eb43cfebe2e0de847ef8b62f5
+../../../QMCVDevelopment/QMChatViewController/Views/CollectionView/Layout/QMChatCellLayoutAttributes.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

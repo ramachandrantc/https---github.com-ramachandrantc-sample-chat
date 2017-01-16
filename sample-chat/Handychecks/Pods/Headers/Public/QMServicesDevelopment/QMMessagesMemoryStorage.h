@@ -1,0 +1,5 @@
+XSym
+0108
+3a43bf25c0fdc10003237276091be59a
+../../../QMServicesDevelopment/QMChatService/QMChatService/QMMessagesMemoryStorage/QMMessagesMemoryStorage.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

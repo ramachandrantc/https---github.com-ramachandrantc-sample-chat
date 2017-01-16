@@ -1,0 +1,5 @@
+XSym
+0084
+57e17113f81ff9350d92ec0a6e19a0ae
+../../../QMServicesDevelopment/QMChatService/QMChatService/QMChatAttachmentService.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,5 @@
+XSym
+0121
+9e0c2f2ae918ec402029553ead234ee2
+../../../QMCVDevelopment/QMChatViewController/Views/CollectionView/Layout/QMCollectionViewFlowLayoutInvalidationContext.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

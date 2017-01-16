@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>login</key>
+	<string>http://dashboard.handychecks.com/app/login</string>
+	<key>registration</key>
+	<string>http://dashboard.handychecks.com/app/registration</string>
+	<key>edit_profile</key>
+	<string>http://dashboard.handychecks.com/app/ios_edit_profile</string>
+	<key>request_link</key>
+	<string>http://dashboard.handychecks.com/app/request_link</string>
+	<key>price_calculation</key>
+	<string>http://dashboard.handychecks.com/app/pric_calculation</string>
+	<key>request_service</key>
+	<string>http://dashboard.handychecks.com/app/request_service</string>
+	<key>notification</key>
+	<string>http://dashboard.handychecks.com/app/notification</string>
+	<key>show_details</key>
+	<string>http://dashboard.handychecks.com/app/show_details</string>
+	<key>customer_accepted</key>
+	<string>http://dashboard.handychecks.com/app/custumer_accepted</string>
+	<key>select_location</key>
+	<string>http://dashboard.handychecks.com/app/select_locations_wrt_service</string>
+	<key>forgot_password</key>
+	<string>http://dashboard.handychecks.com/app/forgot_password</string>
+	<key>add_device</key>
+	<string>http://dashboard.handychecks.com/app/add_ios_device_details</string>
+	<key>paid_services</key>
+	<string>http://dashboard.handychecks.com/app/payment_completed_services</string>
+	<key>payment</key>
+	<string>http://dashboard.handychecks.com/app/services_Accepted_by_customer</string>
+	<key>providers_list</key>
+	<string>http://dashboard.handychecks.com/app/list_providers</string>
+	<key>add_rating</key>
+	<string>http://dashboard.handychecks.com/app/add_rating_review</string>
+	<key>new_password</key>
+	<string>http://dashboard.handychecks.com/app/new_password</string>
+	<key>all_jobs</key>
+	<string>http://dashboard.handychecks.com/app/all_jobs</string>
+	<key>accepted_service_details</key>
+	<string>http://dashboard.handychecks.com/app/accepted_service_details</string>
+	<key>direct_payment</key>
+	<string>http://dashboard.handychecks.com/app/custumer_accept_direct_payment</string>
+	<key>update_order_detail</key>
+	<string>http://dashboard.handychecks.com/app/update_order_detail</string>
+	<key>all_comments</key>
+	<string>http://dashboard.handychecks.com/app/get_rating_review</string>
+</dict>
+</plist>

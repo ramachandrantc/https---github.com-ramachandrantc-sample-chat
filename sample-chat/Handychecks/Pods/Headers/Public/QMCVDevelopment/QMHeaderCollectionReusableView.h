@@ -1,0 +1,5 @@
+XSym
+0124
+a2b6524d82e652be151f2cc4fafc1b56
+../../../QMCVDevelopment/QMChatViewController/Views/CustomUI/QMHeaderCollectionReusableView/QMHeaderCollectionReusableView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

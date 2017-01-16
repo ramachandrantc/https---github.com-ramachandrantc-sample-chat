@@ -1,0 +1,5 @@
+XSym
+0069
+d6a8f03e879f6375767a2c39b0fc39d2
+../../../QMCVDevelopment/QMChatViewController/Categories/UIColor+QM.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

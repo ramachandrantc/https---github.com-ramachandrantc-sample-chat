@@ -1,0 +1,5 @@
+XSym
+0107
+867749eda2f299d24ea6476948c853db
+../../../QMServicesDevelopment/QMDBStorage/QMDBStorage/QMCDRecord/QMCDRecordStack/InMemoryQMCDRecordStack.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

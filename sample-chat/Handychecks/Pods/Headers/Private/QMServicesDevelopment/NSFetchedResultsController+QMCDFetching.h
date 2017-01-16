@@ -1,0 +1,5 @@
+XSym
+0127
+4fcef611f629f54eeaf7f206ff451d22
+../../../QMServicesDevelopment/QMDBStorage/QMDBStorage/QMCDRecord/Categories/CoreData/NSFetchedResultsController+QMCDFetching.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

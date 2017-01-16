@@ -1,0 +1,5 @@
+XSym
+0082
+2c2b48073321a60f0092c7a22245d617
+../../../QMServicesDevelopment/QMChatCache/QMChatCache/CoreData/Entries/CDDialog.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

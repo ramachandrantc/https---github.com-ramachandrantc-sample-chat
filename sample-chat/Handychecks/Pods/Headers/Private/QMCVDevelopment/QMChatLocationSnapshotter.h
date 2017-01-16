@@ -1,0 +1,5 @@
+XSym
+0105
+07cf201424f4197bb2efedf559ff6fbe
+../../../QMCVDevelopment/QMChatViewController/Utils/QMChatLocationSnapshotter/QMChatLocationSnapshotter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

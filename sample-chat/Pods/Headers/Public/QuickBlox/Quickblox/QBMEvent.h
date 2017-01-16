@@ -1,0 +1,5 @@
+XSym
+0060
+b43092be2863531bb7a8b26e6e8cc777
+../../../../QuickBlox/Quickblox.framework/Headers/QBMEvent.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

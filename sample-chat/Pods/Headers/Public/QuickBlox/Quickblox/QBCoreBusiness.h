@@ -1,0 +1,5 @@
+XSym
+0066
+e452c4b1357e6c314c5cc78c5e51a759
+../../../../QuickBlox/Quickblox.framework/Headers/QBCoreBusiness.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

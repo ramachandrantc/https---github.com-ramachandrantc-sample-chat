@@ -1,0 +1,5 @@
+XSym
+0106
+7bd048987747d99143b1eca919123bd0
+../../../QMChatViewController/QMChatViewController/Views/Cells/QMChatAttachmentCell/QMChatAttachmentCell.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

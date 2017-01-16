@@ -1,0 +1,5 @@
+XSym
+0068
+f8fc89af0c7ef7415f3fc553ef4d2583
+../../../../QuickBlox/Quickblox.framework/Headers/QBRequest+QBAuth.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

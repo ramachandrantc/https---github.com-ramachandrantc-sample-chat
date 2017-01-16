@@ -1,0 +1,5 @@
+XSym
+0121
+0ea96922044034ef45462eb6ccf694e1
+../../../QMServices/QMDBStorage/QMDBStorage/QMCDRecord/Categories/CoreData/NSManagedObject/NSManagedObject+QMCDRequests.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

@@ -1,0 +1,5 @@
+XSym
+0075
+3c93de38285ece1add9c48ed5a76cf07
+../../../QMServices/QMChatCache/QMChatCache/CoreData/Entries/CDAttachment.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

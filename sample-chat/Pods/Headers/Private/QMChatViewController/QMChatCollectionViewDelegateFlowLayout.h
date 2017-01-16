@@ -1,0 +1,5 @@
+XSym
+0101
+8054c0e4bba22ec8164a3aca9b3e5f03
+../../../QMChatViewController/QMChatViewController/Protocols/QMChatCollectionViewDelegateFlowLayout.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

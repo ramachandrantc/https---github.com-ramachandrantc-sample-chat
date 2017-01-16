@@ -1,0 +1,5 @@
+XSym
+0114
+2eae045fe79e140ecb81e292ce2064f3
+../../../QMServicesDevelopment/QMDBStorage/QMDBStorage/QMCDRecord/Categories/CoreData/Import/QMCDImportFunctions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

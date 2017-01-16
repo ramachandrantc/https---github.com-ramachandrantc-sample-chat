@@ -1,0 +1,5 @@
+XSym
+0060
+9ea4edfb733266f2fdb9224a076b4274
+../../../../QuickBlox/Quickblox.framework/Headers/QBCOFile.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

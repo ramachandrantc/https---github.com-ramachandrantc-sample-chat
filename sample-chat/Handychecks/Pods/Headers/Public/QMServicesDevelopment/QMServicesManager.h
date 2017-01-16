@@ -1,0 +1,5 @@
+XSym
+0061
+b2a03bdbef2e9c72992bca9e200f9024
+../../../QMServicesDevelopment/QMManagers/QMServicesManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

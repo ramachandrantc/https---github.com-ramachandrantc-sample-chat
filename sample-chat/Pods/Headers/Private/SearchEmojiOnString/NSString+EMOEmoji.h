@@ -1,0 +1,5 @@
+XSym
+0072
+21384dcded8722a3767dc0c7c2891d50
+../../../SearchEmojiOnString/SearchEmojiOnString-iOS/NSString+EMOEmoji.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

@@ -1,0 +1,5 @@
+XSym
+0097
+ff120fbbb6fd9d4f0cee74d358ad8b0c
+../../../QMServices/QMDBStorage/QMDBStorage/QMCDRecord/QMCDRecord/QMCDRecordMOGeneratorProtocol.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

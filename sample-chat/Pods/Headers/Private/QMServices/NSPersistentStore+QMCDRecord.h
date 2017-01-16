@@ -1,0 +1,5 @@
+XSym
+0105
+91e9a814178d53887f51d0a958e7bbdd
+../../../QMServices/QMDBStorage/QMDBStorage/QMCDRecord/Categories/CoreData/NSPersistentStore+QMCDRecord.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

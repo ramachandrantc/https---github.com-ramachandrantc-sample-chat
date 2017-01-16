@@ -1,0 +1,5 @@
+XSym
+0073
+daae1cab754695f301705f5732324db5
+../../../../QuickBlox/Quickblox.framework/Headers/QBCustomObjectsHeader.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

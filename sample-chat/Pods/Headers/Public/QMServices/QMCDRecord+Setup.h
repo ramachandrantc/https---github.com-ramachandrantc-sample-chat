@@ -1,0 +1,5 @@
+XSym
+0084
+d03bf384cb282b952ddbb842ab54def2
+../../../QMServices/QMDBStorage/QMDBStorage/QMCDRecord/QMCDRecord/QMCDRecord+Setup.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

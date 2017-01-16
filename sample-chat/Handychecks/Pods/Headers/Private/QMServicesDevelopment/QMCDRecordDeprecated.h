@@ -1,0 +1,5 @@
+XSym
+0099
+9f058e32b1d8fa78ccb9971271944486
+../../../QMServicesDevelopment/QMDBStorage/QMDBStorage/QMCDRecord/QMCDRecord/QMCDRecordDeprecated.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

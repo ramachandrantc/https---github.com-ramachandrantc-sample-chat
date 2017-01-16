@@ -1,0 +1,5 @@
+XSym
+0108
+d9f0f799db0aafa064158d9b41313833
+../../../QMServicesDevelopment/QMDBStorage/QMDBStorage/QMCDRecord/QMCDRecord/QMCDRecord+VersionInformation.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

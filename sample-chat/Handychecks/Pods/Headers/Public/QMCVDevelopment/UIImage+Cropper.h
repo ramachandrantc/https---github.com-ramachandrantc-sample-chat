@@ -1,0 +1,5 @@
+XSym
+0074
+62a95f8db48eeb6b06059acb3c475ab3
+../../../QMCVDevelopment/QMChatViewController/Categories/UIImage+Cropper.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

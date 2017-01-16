@@ -1,0 +1,5 @@
+XSym
+0073
+96f9eb34b308ce9ddec066da9de051e0
+../../../../QuickBlox/Quickblox.framework/Headers/QBLocationDefinitions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

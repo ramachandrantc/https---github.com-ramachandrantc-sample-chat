@@ -1,0 +1,5 @@
+XSym
+0105
+d7790ad6d0fd4c1126187300294a3ca2
+../../../QMCVDevelopment/QMChatViewController/Views/Cells/QMChatNotificationCell/QMChatNotificationCell.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

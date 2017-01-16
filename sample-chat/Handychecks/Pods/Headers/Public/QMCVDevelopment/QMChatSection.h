@@ -1,0 +1,5 @@
+XSym
+0075
+cdedc1c77664b8452ff0a5111a7312a7
+../../../QMCVDevelopment/QMChatViewController/QMChatSection/QMChatSection.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

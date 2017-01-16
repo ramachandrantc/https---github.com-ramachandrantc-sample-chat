@@ -1,0 +1,5 @@
+XSym
+0078
+997df7d8b4c3c4a896328e530f0a0f06
+../../../QMServicesDevelopment/QMDBStorage/QMDBStorage/QMCDRecord/QMCDRecord.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

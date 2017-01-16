@@ -1,0 +1,5 @@
+XSym
+0067
+20bd619edc5a5575265beb90462cbc06
+../../../../QuickBlox/Quickblox.framework/Headers/QBMSubscription.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

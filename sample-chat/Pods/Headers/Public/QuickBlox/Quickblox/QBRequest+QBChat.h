@@ -1,0 +1,5 @@
+XSym
+0068
+2e55c6267dc4f0fc600b4ead0cb456ed
+../../../../QuickBlox/Quickblox.framework/Headers/QBRequest+QBChat.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

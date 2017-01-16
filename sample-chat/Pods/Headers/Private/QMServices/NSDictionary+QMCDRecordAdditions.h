@@ -1,0 +1,5 @@
+XSym
+0111
+36f07a9c29273e431aaee4d7bdd2a342
+../../../QMServices/QMDBStorage/QMDBStorage/QMCDRecord/Categories/Foundation/NSDictionary+QMCDRecordAdditions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

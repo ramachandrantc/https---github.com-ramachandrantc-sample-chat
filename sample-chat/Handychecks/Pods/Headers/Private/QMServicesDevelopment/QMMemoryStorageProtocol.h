@@ -1,0 +1,5 @@
+XSym
+0084
+690dbef5930d42c5163e296ef4fc283c
+../../../QMServicesDevelopment/QMBaseService/QMBaseService/QMMemoryStorageProtocol.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,5 @@
+XSym
+0058
+339e7ef4cf25513dc6928fe195cb7b9b
+../../../../QuickBlox/Quickblox.framework/Headers/QBChat.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

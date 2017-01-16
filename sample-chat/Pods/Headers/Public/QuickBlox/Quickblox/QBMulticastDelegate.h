@@ -1,0 +1,5 @@
+XSym
+0071
+b55a693a5861c12ae55d434c08de4786
+../../../../QuickBlox/Quickblox.framework/Headers/QBMulticastDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

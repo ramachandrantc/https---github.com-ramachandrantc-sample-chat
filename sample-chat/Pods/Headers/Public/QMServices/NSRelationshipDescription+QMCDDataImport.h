@@ -1,0 +1,5 @@
+XSym
+0124
+29347cc0ab6ebd384e0079f952a138e0
+../../../QMServices/QMDBStorage/QMDBStorage/QMCDRecord/Categories/CoreData/Import/NSRelationshipDescription+QMCDDataImport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

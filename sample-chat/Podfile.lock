@@ -1,0 +1,94 @@
+PODS:
+  - Bolts (1.5.1):
+    - Bolts/AppLinks (= 1.5.1)
+    - Bolts/Tasks (= 1.5.1)
+  - Bolts/AppLinks (1.5.1):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.5.1)
+  - Crashlytics (3.8.3):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.11)
+  - QMChatViewController (0.4.0.1):
+    - QMChatViewController/Categories (= 0.4.0.1)
+    - QMChatViewController/Protocols (= 0.4.0.1)
+    - QMChatViewController/QMChatDataSource (= 0.4.0.1)
+    - QMChatViewController/QMChatLocationSnapshotter (= 0.4.0.1)
+    - QMChatViewController/Sections (= 0.4.0.1)
+    - QMChatViewController/Utils (= 0.4.0.1)
+    - QMChatViewController/Views (= 0.4.0.1)
+    - QuickBlox (>= 2.0)
+    - SDWebImage (~> 3.6)
+    - TTTAttributedLabel (> 1.13)
+  - QMChatViewController/Categories (0.4.0.1):
+    - QMChatViewController/QMChatLocationSnapshotter
+    - QuickBlox (>= 2.0)
+    - SDWebImage (~> 3.6)
+    - TTTAttributedLabel (> 1.13)
+  - QMChatViewController/Protocols (0.4.0.1):
+    - QuickBlox (>= 2.0)
+    - SDWebImage (~> 3.6)
+    - TTTAttributedLabel (> 1.13)
+  - QMChatViewController/QMChatDataSource (0.4.0.1):
+    - QuickBlox (>= 2.0)
+    - SDWebImage (~> 3.6)
+    - TTTAttributedLabel (> 1.13)
+  - QMChatViewController/QMChatLocationSnapshotter (0.4.0.1):
+    - QuickBlox (>= 2.0)
+    - SDWebImage (~> 3.6)
+    - TTTAttributedLabel (> 1.13)
+  - QMChatViewController/Sections (0.4.0.1):
+    - QMChatViewController/QMChatDataSource
+    - QuickBlox (>= 2.0)
+    - SDWebImage (~> 3.6)
+    - TTTAttributedLabel (> 1.13)
+  - QMChatViewController/Utils (0.4.0.1):
+    - QMChatViewController/Categories
+    - QuickBlox (>= 2.0)
+    - SDWebImage (~> 3.6)
+    - TTTAttributedLabel (> 1.13)
+  - QMChatViewController/Views (0.4.0.1):
+    - QMChatViewController/Categories
+    - QMChatViewController/Protocols
+    - QMChatViewController/Utils
+    - QuickBlox (>= 2.0)
+    - SDWebImage (~> 3.6)
+    - TTTAttributedLabel (> 1.13)
+  - QMServices (0.4.5):
+    - Bolts (>= 1.5.0)
+    - QuickBlox (>= 2.6.5)
+  - QuickBlox (2.9)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SearchEmojiOnString (1.1.0)
+  - SVProgressHUD (1.1.3)
+  - TTTAttributedLabel (2.0.0)
+  - UIAlertView+Blocks (0.9)
+
+DEPENDENCIES:
+  - Bolts (~> 1.5.0)
+  - Crashlytics
+  - Fabric
+  - QMChatViewController
+  - QMServices
+  - QuickBlox
+  - SearchEmojiOnString
+  - SVProgressHUD (~> 1.1.3)
+  - UIAlertView+Blocks
+
+SPEC CHECKSUMS:
+  Bolts: a12663244b1d3351c738882e71902fc74db54f64
+  Crashlytics: 2b6dbe138a42395577cfa73dfa1aa7248cadf39e
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  QMChatViewController: 50dc594e5429ba162c89fa1dfe87668eb3827cde
+  QMServices: 617057b228eb5e41341e50216fc4af2fce3cfa46
+  QuickBlox: 4e071921a5fb4b0ecde1f66c7ce04a70ededc90c
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SearchEmojiOnString: 7344970449603396555d058a0dc297b5471bafa7
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+  UIAlertView+Blocks: a46c99c5144f6c5dbc7d62fd2a0678daceec89a3
+
+PODFILE CHECKSUM: 94d2bc3c82cf450c9c0a0b94b74f3731e9741b19
+
+COCOAPODS: 1.1.1

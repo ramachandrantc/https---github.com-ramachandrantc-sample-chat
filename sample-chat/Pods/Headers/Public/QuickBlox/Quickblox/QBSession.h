@@ -1,0 +1,5 @@
+XSym
+0061
+5ebc357c61f17a7445ea372606c283ce
+../../../../QuickBlox/Quickblox.framework/Headers/QBSession.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

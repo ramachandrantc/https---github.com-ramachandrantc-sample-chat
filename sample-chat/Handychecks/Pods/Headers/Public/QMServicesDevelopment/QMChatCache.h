@@ -1,0 +1,5 @@
+XSym
+0068
+8d0e5c9e5bda9bcc732514e46771077e
+../../../QMServicesDevelopment/QMChatCache/QMChatCache/QMChatCache.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

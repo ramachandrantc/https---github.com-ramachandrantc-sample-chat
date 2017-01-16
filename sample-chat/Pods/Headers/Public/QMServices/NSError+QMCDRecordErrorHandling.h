@@ -1,0 +1,5 @@
+XSym
+0110
+4b0fa6c2009202160acbf5bfa48959c9
+../../../QMServices/QMDBStorage/QMDBStorage/QMCDRecord/Categories/Foundation/NSError+QMCDRecordErrorHandling.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

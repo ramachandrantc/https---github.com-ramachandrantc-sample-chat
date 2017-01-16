@@ -1,0 +1,5 @@
+XSym
+0078
+b5aefb08b113e2b4fb70ce45875c344d
+../../../QMChatViewController/QMChatViewController/Views/QMChatContainerView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

@@ -1,0 +1,5 @@
+XSym
+0094
+fbbf4d6e99087a4eab34e576b27230a6
+../../../QMServices/QMContactListCache/QMContactListCache/CoreData/Entries/CDContactListItem.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

@@ -1,0 +1,5 @@
+XSym
+0074
+fc62c06729f794420c9b440cd24f34ba
+../../../QMCVDevelopment/QMChatViewController/Views/QMChatActionsHandler.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

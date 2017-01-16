@@ -1,0 +1,5 @@
+XSym
+0068
+bdff4c59459e771caa6349bcb0e5f804
+../../../QMCVDevelopment/QMChatViewController/Categories/UIView+QM.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

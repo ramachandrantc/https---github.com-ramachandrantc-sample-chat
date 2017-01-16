@@ -1,0 +1,5 @@
+XSym
+0076
+68627f23aec7900687e49402f5f6528f
+../../../QMServicesDevelopment/QMChatService/QMChatService/QMChatConstants.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

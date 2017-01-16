@@ -1,0 +1,5 @@
+XSym
+0084
+85f5554eaa6ef3175a62ac2cb7aed86c
+../../../QMServices/QMContactListService/QMContactListService/QMContactListService.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
